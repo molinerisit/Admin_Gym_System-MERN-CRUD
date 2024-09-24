@@ -255,7 +255,7 @@ Abre un Pull Request
 Licencia
 Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archivo LICENSE.
 
-Contacto
+Contacto @Julianmolineris
 Autor: Julian Molineris
 
 ¡Gracias por usar AdminGym! Si tienes alguna pregunta o sugerencia, no dudes en contactarme.
