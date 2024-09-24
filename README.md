@@ -1,10 +1,10 @@
 # AdminGym
 
-## Descripción del Proyecto
+## Descripción del Proyecto:
 
 **AdminGym** es una aplicación web para la gestión de miembros y tareas en un gimnasio. Permite registrar accesos, gestionar usuarios y tareas, así como verificar el estado de membresías y pagos.
 
-## Características
+## Características:
 
 - Registro y autenticación de usuarios
 - Gestión de tareas (crear, actualizar, eliminar y buscar)
@@ -12,7 +12,7 @@
 - Verificación de pagos y fechas adeudadas
 - Interfaz amigable y responsiva
 
-## Tecnologías Utilizadas
+## Tecnologías Utilizadas:
 
 ### Frontend
 
@@ -28,7 +28,7 @@
 - MongoDB (Mongoose)
 - JWT (JSON Web Tokens)
 
-## Instalación
+## Instalación:
 
 ### Requisitos Previos
 
